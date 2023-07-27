@@ -3,13 +3,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+/PGC-Pregenerated-City-/[Ll]ibrary/
+/PGC-Pregenerated-City-/[Tt]emp/
+/PGC-Pregenerated-City-/[Oo]bj/
+/PGC-Pregenerated-City-/[Bb]uild/
+/PGC-Pregenerated-City-/[Bb]uilds/
+/PGC-Pregenerated-City-/[Ll]ogs/
+/PGC-Pregenerated-City-/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta

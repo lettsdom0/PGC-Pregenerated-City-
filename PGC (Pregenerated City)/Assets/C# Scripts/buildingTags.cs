@@ -6,6 +6,24 @@ public class buildingTags : MonoBehaviour
 {
 
     public const string gameController = "GameController";
+
+    public enum BlockLocation
+    {
+        A,
+        B, 
+        C,
+        D,
+        E,
+        F
+    }public enum BUldingType
+    {
+        A,
+        B, 
+        C,
+        D,
+        E,
+        F
+    }
     //blocks
     public const string blockA = "Block A";
     public const string blockB = "Block B";
